@@ -1,2 +1,2 @@
 # mypublicrepo
-#myfirst punlic repository with some change
+# myfirst public repository with some change
